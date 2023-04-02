@@ -14,7 +14,7 @@ steps:
 substitutions:
     #GCP Specific configuration. Please DON'T change anything
     _PROJECT: car-poc-prj
-    _ZONE: asia-south1-a
+   # _ZONE: asia-south1-a
    # _GKE_CLUSTER: learn-gcp-with-mahesh-gke-cluster
     
     #Repository Specific configuration. DevOps can change this settings
