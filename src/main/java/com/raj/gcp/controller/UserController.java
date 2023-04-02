@@ -22,7 +22,7 @@ public class UserController {
 		LOG.info("Enter into UserController::getUser");
 
 		UserResponse userResponse = new UserResponse();
-		userResponse.setUserName("my test username");
+		userResponse.setUserName("my test username Raja");
 		LOG.info("Exit from serController::getUser");
 		return userResponse;
 
